@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Twitter-Login-Page/static/css/main.71c1a43e.css",
+    "main.js": "/Twitter-Login-Page/static/js/main.20152c6a.js",
+    "index.html": "/Twitter-Login-Page/index.html",
+    "main.71c1a43e.css.map": "/Twitter-Login-Page/static/css/main.71c1a43e.css.map",
+    "main.20152c6a.js.map": "/Twitter-Login-Page/static/js/main.20152c6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c1a43e.css",
+    "static/js/main.20152c6a.js"
+  ]
+}
